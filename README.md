@@ -8,6 +8,3 @@ Analyse des données d'un ensemble de données de commerce électronique pour id
 
 ![Ventes par catégorie](visuals/revenue_by_category.png)
 
-## Evolution des ventes par mois
-
-![Ventes par mois](visuals/revenue_by_month.png)
