@@ -2,4 +2,5 @@
 Analyse des données d'un ensemble de données de commerce électronique pour identifier les moteurs de revenus, les annulations et la performance logistique.
 ## Analyse des ventes par catégorie
 
-![Graphique ventes](Visuels/graph1.png)
+![Ventes par catégorie](visuals/revenue_by_category.png
+![Ventes par mois](visuals/revenue_by_month.png)
